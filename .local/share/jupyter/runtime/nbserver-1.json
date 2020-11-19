@@ -1,0 +1,11 @@
+{
+  "base_url": "/user/pysepty-my-first-binder-4vo4p5k9/",
+  "hostname": "0.0.0.0",
+  "notebook_dir": "/home/jovyan",
+  "password": false,
+  "pid": 1,
+  "port": 8888,
+  "secure": false,
+  "token": "K4t1h1deSiWbv8Mb2e67_A",
+  "url": "http://0.0.0.0:8888/user/pysepty-my-first-binder-4vo4p5k9/"
+}
